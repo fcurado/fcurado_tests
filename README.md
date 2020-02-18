@@ -1,2 +1,0 @@
-# Mycode
-Generic code repo
